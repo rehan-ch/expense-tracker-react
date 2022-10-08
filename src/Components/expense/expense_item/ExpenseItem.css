@@ -1,0 +1,9 @@
+.expense-item{
+  padding: 20px;
+  background-color: gray;
+  border-radius: 20px;
+}
+.expense-date{
+  border: 1px solid black;
+  border-radius: 10px;
+}

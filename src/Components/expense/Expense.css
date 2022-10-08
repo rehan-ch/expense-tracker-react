@@ -1,0 +1,11 @@
+.expense-items-container{
+  background-color: rgb(47, 38, 38);
+  border-radius: 20px;
+  padding: 20px;
+}
+.no_content{
+  color: aliceblue;
+}
+.text-white{
+  color: white;
+}
